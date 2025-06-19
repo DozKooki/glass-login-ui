@@ -22,7 +22,7 @@ A modern, fully responsive Login and Signup page with stunning glassmorphism des
 
 | Signup Page                             | Login Page                              |
 |----------------------------------------|-----------------------------------------|
-| ![Signup](preview1.png)                | ![Login](preview2.png)                  |
+| ![Signup](Screenshot%2025-06-19-190700.png)                | ![Login](Screenshot%2025-06-19-190637.png)                  |
 
 ---
 
